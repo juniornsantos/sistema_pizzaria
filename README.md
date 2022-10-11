@@ -1,7 +1,7 @@
 
 
-# Projeto Urna eletrônica do curso B7Web
-Esta é a versão 1.0.0 do projeto de uma sistema de pizzaria completo feito no curso de JavaScript do curso  B7web. O Objetivo é "simular" o funcionamento de uma Urna de votação.
+# Projeto Sistema de P do curso B7Web
+Esta é a versão 1.0.0 do projeto de uma Sistema para Pizzarias completo feito no curso de JavaScript do curso  B7web. O Objetivo é "simular" o funcionamento de uma Urna de votação.
 
 ## .gif Exemplo
 ![snackbar](https://github.com/juniornsantos/sistema_pizzaria/blob/main/pizz.gif)
